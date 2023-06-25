@@ -4,7 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/lfsilvaferreira/)
 
-## <b>Tecnologias:</b>
 <div style="display: inline_block"><br/>
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" >
   <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" >
