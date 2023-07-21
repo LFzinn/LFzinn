@@ -8,7 +8,3 @@
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
 </div><br/>
-
-### <b> Sobre mim:</b>
-
-Atualmente, possuo um sólido conhecimento em desenvolvimento front-end com <b>Angular</b> e estou empenhado em expandir minhas habilidades para o desenvolvimento full stack, combinando esse conhecimento com o <b>.NET</b> . Meu objetivo é construir aplicações de alta qualidade que abranjam todos os aspectos do desenvolvimento, desde a criação da interface do usuário até a implementação da lógica do servidor.
